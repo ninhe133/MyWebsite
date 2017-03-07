@@ -13,6 +13,7 @@ body {
 	height: 55px;
 	background: #63aedb;
 }
+
 li{
 font-family: "Arial";
 }
@@ -32,7 +33,7 @@ p{
 }
 .container{
 	width: 100%;
-	height: auto;
+	height: 55px;
 	display: table;
 	margin: 0 auto;
 }
@@ -47,31 +48,35 @@ p{
 }
 
 .buttons{
-	width: 80%;
-	height: auto;
+	width: 50%;
+	height: 55px;
 	float: right;
+	text-align: right;
+
 }
 
-.button{
-	list-style: none;	
-}
-
-.button a {
+.buttons a {
 	color: white;
 	text-decoration: none;
+	line-height: 55px;
+    margin: 0 5px;
 }
 
-.button li{
-	float: left;
-	margin-left: 30px;
-	
+
+.icons{
+	width: 25%;
+	height: 50px;
+	float: right;
+	text-align: right;
+    margin: 0 5px;
 }
+
 .bottom {
 	width: 100%;
 	height: 40px;
 	background: #63aedb;	
-	position:absolute;
-	bottom:0;                           
-	left:0; 
+	position: absolute;
+	bottom: 0;                           
+	left: 0; 
 }
 
