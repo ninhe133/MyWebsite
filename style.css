@@ -15,8 +15,9 @@ body {
 }
 
 li{
-font-family: "Arial";
+	font-family: "Arial";
 }
+
 h1{
 	text-align: center;
 	font-family:"Arial";
@@ -60,14 +61,20 @@ p{
 	text-decoration: none;
 	line-height: 55px;
     margin: 0 5px;
+	font-family: "Arial";
 }
 
 
 .icons{
-	width: 25%;
+	width: 28%;
 	height: 50px;
 	float: right;
 	text-align: right;
+
+}
+
+.icons a{
+	line-height: 65px;
     margin: 0 5px;
 }
 
