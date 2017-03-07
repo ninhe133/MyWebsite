@@ -4,14 +4,14 @@
 }
 
 body {
-	background: #d5d5d6;
+	background: #0b0100;
 	text-align: center;
 }
 
 .main {
 	width: 100%;
 	height: 55px;
-	background: #63aedb;
+	background: #a3bc9a;
 }
 
 li{
@@ -81,7 +81,7 @@ p{
 .bottom {
 	width: 100%;
 	height: 40px;
-	background: #63aedb;	
+	background: #a3bc9a;	
 	position: absolute;
 	bottom: 0;                           
 	left: 0; 
