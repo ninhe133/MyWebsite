@@ -10,14 +10,17 @@ body {
 
 .main {
 	width: 100%;
-	height: 55px;
-	background: #a3bc9a;
+	height: 1200px;
+	background-image: url(https://i.imgur.com/1zy6oxw.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
 }
 
-.container{
+.topContainer{
 	width: 100%;
 	height: 55px;
 	display: table;
+	background: #a3bc9a;
 	margin: 0 auto;
 }
 
@@ -45,7 +48,6 @@ body {
     margin: 0 5px;
 	font-family: "Arial";
 }
-
 
 .icons{
 	width: 28%;
@@ -81,7 +83,7 @@ p{
 	font-family: "Arial";
 	font-size: 16pt;
 	text-align: left;
-	color: #2f2d2d;
+	color: #FFFFFF;
 	margin-left: 20px;	
 }
 
