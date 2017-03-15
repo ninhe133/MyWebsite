@@ -61,11 +61,22 @@ body {
 	line-height: 65px;
     margin: 0 5px;
 	color: black;}
+	
+.contents{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
 
 .bottom {
 	width: 100%;
 	height: 40px;
 	background: #a3bc9a;
+}
+.pictures{
+
+
 }
 
 li{
@@ -75,7 +86,7 @@ li{
 h1{
 	text-align: center;
 	font-family:"Arial";
-	font: 24pt;
+	font: 26pt;
 	color: #000000;
 }
 
@@ -85,5 +96,6 @@ p{
 	text-align: left;
 	color: #FFFFFF;
 	margin-left: 20px;	
+	margin-bottom: 10px;
 }
 
