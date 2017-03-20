@@ -22,7 +22,6 @@ body {
 	background-image: url(https://images5.alphacoders.com/439/thumb-1920-439361.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
-
 }
 
 .topContainer{
@@ -84,7 +83,7 @@ body {
 	background: #a3bc9a;
 }
 .pictures img{
-	margin: 0 10px;
+	margin: 0 20px;
 
 }
 
